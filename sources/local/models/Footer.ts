@@ -48,6 +48,15 @@ export const Footer: Model = {
             localized: false
         },
         {
+            type: 'markdown',
+            name: 'copyrightText',
+            label: 'Copyright text',
+            required: false,
+            default: 'Copyright text',
+            hidden: false,
+            localized: false
+        },        
+        {
             type: 'model',
             name: 'primaryLinks',
             label: 'Primary Links',
@@ -88,15 +97,6 @@ export const Footer: Model = {
                 type: 'model',
                 models: ['Link']
             }
-        },
-        {
-            type: 'markdown',
-            name: 'copyrightText',
-            label: 'Copyright text',
-            required: false,
-            default: 'Copyright text',
-            hidden: false,
-            localized: false
         },
         {
             type: 'enum',
