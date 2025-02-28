@@ -6,6 +6,6 @@
     },
     "text": "A description of your brand",
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-primary-fg-light",
     "type": "Footer"
 }
