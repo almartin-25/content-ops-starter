@@ -10,8 +10,7 @@ sections:
     tagline: A UX/UI Designer
     subtitle:
     text: >
-    Throughout my career users have always been at the forefront, understanding people and providing 
-an inclusive experience for all is key.
+    Throughout my career users have always been at the forefront, understanding people and providing an inclusive experience for all is key.
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
