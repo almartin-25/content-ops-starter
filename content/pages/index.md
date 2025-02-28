@@ -4,8 +4,8 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hi, I'm Amy! 
-      color: text-dark
+      text: Hi, I'm Amy!
+      color: text-primary
       type: TitleBlock
     subtitle: UI/UX Designer
     text: >
@@ -27,8 +27,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
+  - title:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
@@ -99,16 +98,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: List of features here
       color: text-primary
