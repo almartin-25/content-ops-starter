@@ -119,21 +119,21 @@ export const Header: Model = {
                     value: 'bg-light-fg-dark',
                     textColor: '$dark',
                     backgroundColor: '$light',
-                    borderColor: '#ececec'
+                    borderColor: '#ffffff'
                 },
                 {
                     label: 'Neutral background, dark foreground',
                     value: 'bg-neutral-fg-dark',
                     textColor: '$dark',
                     backgroundColor: '$neutral',
-                    borderColor: '#ececec'
+                    borderColor: '#ffffff'
                 },
                 {
                     label: 'Dark background, light foreground',
                     value: 'bg-dark-fg-light',
                     textColor: '$light',
                     backgroundColor: '$dark',
-                    borderColor: '#ececec'
+                    borderColor: '#ffffff'
                 }
             ],
             group: 'styles',
