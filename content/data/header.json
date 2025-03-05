@@ -9,7 +9,7 @@
         },
         "type": "ImageBlock"
     },
-    "secondaryLinks": [
+    "primaryLinks": [
         {
             "label": "Home",
             "url": "/",
@@ -37,7 +37,7 @@
             "type": "Link"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
