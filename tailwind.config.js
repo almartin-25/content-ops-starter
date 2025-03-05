@@ -8,7 +8,7 @@ module.exports = {
         'text-light',
         {
             pattern: /(m|p)(t|b|l|r)-(0|px|1|1.5|2|2.5|3|3.5|4|5|6|7|8|9|10|11|12|14|16|20|24|28|32|36|40|44|48|52|56|60|64|72|80|96)/
-        },
+        }
     ],
     theme: {
         extend: {
@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
+                sans: ['Poppins', 'sans-serif'],
                 serif: ['Roboto Slab', 'serif']
             },
             gridTemplateColumns: {
@@ -127,9 +127,9 @@ module.exports = {
                     textTransform: themeStyle.linkPrimary.case
                 },
                 '.sb-component-link-secondary': {
-                    fontWeight: themeStyle.linkSecondary.weight,
-                    letterSpacing: theme(`letterSpacing.${themeStyle.linkSecondary.letterSpacing}`),
-                    textTransform: themeStyle.linkSecondary.case
+                    fontWeight: themeStyle.linkPrimary.weight,
+                    letterSpacing: theme(`letterSpacing.${themeStyle.linkPrimary.letterSpacing}`),
+                    textTransform: themeStyle.linkPrimary.case
                 }
             });
         })

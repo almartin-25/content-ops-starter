@@ -86,8 +86,5 @@
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
-    "sb-footer-bottom": {
-        "margin":"0!important"
-    },
     "type": "ThemeStyle"
 }
