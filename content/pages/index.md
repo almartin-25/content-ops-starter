@@ -5,17 +5,21 @@ sections:
   - type: GenericSection
     title:
       text: Hi, I'm Amy!
-      color: text-primary
+      color: text-dark
       type: TitleBlock
     subtitle:
     text: >
-      A UX/UI Designer with over fifteen years experience. Throughout my career users have always been at the forefront, understanding people and providing 
+      Throughout my career users have always been at the forefront, understanding people and providing 
       an inclusive experience for all is key.
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+    badge:
+      label: UI/UX Designer
+      color: text-primary
+      type: Badge
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
