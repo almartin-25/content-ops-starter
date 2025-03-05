@@ -32,18 +32,13 @@ sections:
           - pb-10
           - pr-16
   - title:
-      text: My work
+      text: Portfolio
       color: text-dark
+      styles:
+        self:
+          textAlign: center
       type: TitleBlock
-    subtitle:
-    text: >
-      Creating a set of standards, guidleines and re-usable components to help ensure consistency across mobile apps.
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
+    subtitle: Subtitle goes here
   - title:
       text: Design System
       color: text-dark
