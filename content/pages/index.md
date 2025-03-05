@@ -35,11 +35,11 @@ sections:
     text: >
       Creating a set of standards, guidleines and re-usable components to help ensure consistency across mobile apps.
     media:
-      url: /images/hero3.svg
+      url: /images/hero2.svg
       altText: Examples from the design system
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Mobile Application
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -52,15 +52,15 @@ sections:
       text: My Liverpool
       color: text-dark
       type: TitleBlock
-    subtitle: Student Portal
+    subtitle:
     text: >
       Redesigning the University of Liverpool’s student intranet to provide a more personal experience.
     media:
-      url: /images/hero2.svg
+      url: /images/hero3.svg
       altText: My Liverpool Homepage
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Student Portal
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
