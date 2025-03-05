@@ -57,48 +57,6 @@ export const Footer: Model = {
             localized: false
         },        
         {
-            type: 'model',
-            name: 'primaryLinks',
-            label: 'Primary Links',
-            required: false,
-            hidden: false,
-            localized: false,
-            models: ['FooterLinksGroup']
-        },
-        {
-            type: 'model',
-            name: 'secondaryLinks',
-            label: 'Secondary Links',
-            required: false,
-            hidden: false,
-            localized: false,
-            models: ['FooterLinksGroup']
-        },
-        {
-            type: 'list',
-            name: 'socialLinks',
-            label: 'Social links',
-            required: false,
-            hidden: false,
-            localized: false,
-            items: {
-                type: 'model',
-                models: ['Social']
-            }
-        },
-        {
-            type: 'list',
-            name: 'legalLinks',
-            label: 'Legal links',
-            required: false,
-            hidden: false,
-            localized: false,
-            items: {
-                type: 'model',
-                models: ['Link']
-            }
-        },
-        {
             type: 'enum',
             name: 'colors',
             label: 'Colors',
