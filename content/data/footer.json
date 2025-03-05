@@ -4,8 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A UI/UX Designer",
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "text": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
