@@ -7,9 +7,9 @@ sections:
       text: Hi, I'm Amy!
       color: text-primary
       type: TitleBlock
-    subtitle: UI/UX Designer
+    subtitle:
     text: >
-      Throughout my career users have always been at the forefront, understanding people and providing 
+      A UX/UI Designer with over fifteen years experience. Throughout my career users have always been at the forefront, understanding people and providing 
       an inclusive experience for all is key.
     media:
       url: /images/main-hero.svg
@@ -39,7 +39,7 @@ sections:
       altText: Examples from the design system
       type: ImageBlock
     badge:
-      label: UI Design, Documentation
+      label: UI Design/Documentation
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -54,13 +54,13 @@ sections:
       type: TitleBlock
     subtitle:
     text: >
-      Redesigning the University of Liverpool’s student intranet to provide a more personal experience.
+      Redesigning the University of Liverpool’s student intranet to provide a personal experience, engaging students and helping them find key information quickly and easily.
     media:
       url: /images/hero3.svg
       altText: My Liverpool Homepage
       type: ImageBlock
     badge:
-      label: UX, UI Desgin
+      label: UX/UI Desgin
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
