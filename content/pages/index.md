@@ -28,30 +28,15 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: Business Consulting
+      text: Design System
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle:
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+      Creating a set of standards, guidleines and re-usable components to help ensure consistency across mobile apps.
     media:
       url: /images/hero3.svg
-      altText: Dope design preview
+      altText: Examples from the design system
       type: ImageBlock
     badge:
       label: This is a badge
@@ -64,30 +49,15 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: My Liverpool
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Student Portal
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+      Redesigning the University of Liverpool’s student intranet to provide a more personal experience.
     media:
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: My Liverpool Homepage
       type: ImageBlock
     badge:
       label: This is a badge
