@@ -32,6 +32,19 @@ sections:
           - pb-10
           - pr-16
   - title:
+      text: My work
+      color: text-dark
+      type: TitleBlock
+    subtitle:
+    text: >
+      Creating a set of standards, guidleines and re-usable components to help ensure consistency across mobile apps.
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
+  - title:
       text: Design System
       color: text-dark
       type: TitleBlock
@@ -52,6 +65,16 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: My Liverpool
       color: text-dark
