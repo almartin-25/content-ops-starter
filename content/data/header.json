@@ -9,7 +9,7 @@
         },
         "type": "ImageBlock"
     },
-    "secondaryLinks": [
+    "primaryLinks": [
         {
             "label": "Home",
             "url": "/",
