@@ -42,7 +42,8 @@ module.exports = {
             padding: {
                 '2/3': '66.666%',
                 '3/4': '75%',
-                '9/16': '56.25%'
+                '9/16': '56.25%',
+                footer: '3rem 1rem'
             },
             screens: {
                 xs: '480px'
