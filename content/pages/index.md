@@ -27,9 +27,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-10
           - pl-16
-          - pb-16
+          - pb-10
           - pr-16
   - title:
       text: Design System
@@ -51,6 +51,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - py-16
     type: GenericSection
   - title:
       text: My Liverpool
