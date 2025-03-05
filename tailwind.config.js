@@ -13,7 +13,7 @@ module.exports = {
     theme: {
         extend: {
             boxShadow: {
-                header: '0px 0px 0px'
+                header: '0px 0px 0px rgba(28,88,131,100)'
             },
             colors: {
                 light: themeStyle.light,
@@ -42,8 +42,7 @@ module.exports = {
             padding: {
                 '2/3': '66.666%',
                 '3/4': '75%',
-                '9/16': '56.25%',
-                footer: '3rem 1rem'
+                '9/16': '56.25%'
             },
             screens: {
                 xs: '480px'
