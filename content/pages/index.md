@@ -39,7 +39,7 @@ sections:
       altText: Examples from the design system
       type: ImageBlock
     badge:
-      label: Mobile Application
+      label: UI Design, Documentation
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -60,7 +60,7 @@ sections:
       altText: My Liverpool Homepage
       type: ImageBlock
     badge:
-      label: Student Portal
+      label: UX, UI Desgin
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
