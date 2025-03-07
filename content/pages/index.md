@@ -94,8 +94,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-        padding:
-          - py-16
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
