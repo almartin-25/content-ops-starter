@@ -12,7 +12,7 @@ sections:
       Throughout my career users have always been at the forefront, understanding people and providing 
       an inclusive experience for all is key.
     media:
-      url: /images/main-hero.svg
+      url: /images/main-hero.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -39,7 +39,7 @@ sections:
     text: >
       Creating a set of standards, guidelines and re-usable components to help ensure consistency across mobile apps.
     media:
-      url: /images/hero2.svg
+      url: /images/hero2.png
       altText: Examples from the design system
       type: ImageBlock
     badge:
@@ -90,7 +90,7 @@ sections:
     text: >
       Creating a mobile app for students and staff at the University of Liverpool to retrieve personalised timetables complete with campus maps.
     media:
-      url: /images/hero4.svg
+      url: /images/hero4.png
       altText: Examples from the timetables mobile app
       type: ImageBlock
     badge:
