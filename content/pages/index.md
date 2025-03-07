@@ -51,8 +51,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-        padding:
-          - py-16
     type: GenericSection
   - title:
       text: My Liverpool
@@ -74,7 +72,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - py-16
+          - py-4
     type: GenericSection
   - title:
       text: Timetables
