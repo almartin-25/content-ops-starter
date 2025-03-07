@@ -32,20 +32,12 @@ sections:
           - pb-10
           - pr-16
   - title:
-      text: Portfolio
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-  - title:
       text: Design System
       color: text-dark
       type: TitleBlock
     subtitle:
     text: >
-      Creating a set of standards, guidleines and re-usable components to help ensure consistency across mobile apps.
+      Creating a set of standards, guidelines and re-usable components to help ensure consistency across mobile apps.
     media:
       url: /images/hero2.svg
       altText: Examples from the design system
@@ -89,6 +81,27 @@ sections:
     styles:
       self:
         alignItems: center
+    type: GenericSection
+  - title:
+      text: Timetables
+      color: text-dark
+      type: TitleBlock
+    subtitle:
+    text: >
+      Creating a mobile app for students and staff at the University of Liverpool to retrieve personalised timetables complete with campus maps.
+    media:
+      url: /images/hero4.svg
+      altText: Examples from the timetables mobile app
+      type: ImageBlock
+    badge:
+      label: UI Design
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
