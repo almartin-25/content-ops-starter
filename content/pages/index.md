@@ -51,17 +51,9 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - py-16
+    type: GenericSection
   - title:
       text: My Liverpool
       color: text-dark
@@ -81,6 +73,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - py-16
     type: GenericSection
   - title:
       text: Timetables
@@ -102,6 +96,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - py-16
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
