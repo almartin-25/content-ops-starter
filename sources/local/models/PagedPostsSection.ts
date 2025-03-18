@@ -57,8 +57,8 @@ export const PagedPostsSection: Model = {
             name: 'showAuthor',
             label: 'Show post author',
             required: false,
-            default: true,
-            hidden: false,
+            default: false,
+            hidden: true,
             localized: false
         },
         {
