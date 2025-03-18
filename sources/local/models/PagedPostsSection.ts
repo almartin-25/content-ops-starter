@@ -48,8 +48,8 @@ export const PagedPostsSection: Model = {
             name: 'showDate',
             label: 'Show post date',
             required: false,
-            default: true,
-            hidden: false,
+            default: false,
+            hidden: true,
             localized: false
         },
         {
